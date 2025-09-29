@@ -187,7 +187,7 @@ background: /joining-microsoft.png
 
 ---
 layout: cover
-background: /acquisition.png
+background: /commit-graph.png
 ---
 
 # Acquired by GitKraken
@@ -215,7 +215,7 @@ background: /brand-4.png
 
 ---
 layout: cover
-background: /commit-composer.png
+background: /commit-composer.webp
 ---
 
 # Commit Composer
@@ -225,7 +225,7 @@ layout: cover
 background: /arms.png
 ---
 
-# Different Companies, Same Team
+# Different Companies, <br /> Same Team
 
 ---
 layout: cover
