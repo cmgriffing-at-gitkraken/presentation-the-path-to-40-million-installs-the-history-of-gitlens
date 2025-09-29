@@ -187,10 +187,19 @@ background: /joining-microsoft.png
 
 ---
 layout: cover
+background: /gitlens-keynote.png
+---
+
+---
+layout: cover
 background: /commit-graph.png
 ---
 
 # Acquired by GitKraken
+
+---
+
+<install-graph />
 
 ---
 layout: cover
