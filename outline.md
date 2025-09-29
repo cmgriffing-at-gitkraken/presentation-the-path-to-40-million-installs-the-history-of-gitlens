@@ -11,6 +11,8 @@
   - Who do you think is the target user for GitLens?
   - ## Looking back, what’s one design or technical decision in GitLens you’re most proud of — and one you might approach differently today?
 
+2021 joined gitkraken
+
 stats:
 
 - commits
@@ -31,3 +33,5 @@ google trends for GitLens
 - Acquired by GitKraken
 - The Future of GitLens
   - What we have done and where it could go
+
+---
